@@ -27,8 +27,7 @@ var c;
 var titleString;
 var loaded = false;
 
-// Use this variable to keep track of which
-// color you want to use to represent each variable
+
 var colorMap = {
   "correctional_facilities_2010": 220,
   "juvenile_detention_facilities_2010": 220,
