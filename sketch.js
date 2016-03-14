@@ -91,7 +91,7 @@ var stateName = {
   "Puerto Rico": "PR"
 }
 
-var facilityData = {}; //facilityData is a dictionary
+var facilityData = {}; 
 var maxValues = {
   "correctional_facilities_2010": 0,
   "juvenile_detention_facilities_2010": 0,
